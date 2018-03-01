@@ -1,0 +1,17 @@
+.avatar {
+  width: 100px;
+  height: auto;
+}
+
+.counter {
+  text-align: center;
+}
+
+.count {
+  font-size: 8em;
+}
+
+.counter a {
+  display: inline-block;
+  margin: 0 1em;
+}
